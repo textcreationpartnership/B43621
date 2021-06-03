@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The pedigree of John Lord Purbeck, the Duke of Buckingham, and Lord Anglesey. The case of James Earl of Castlehaven and Elizabeth his wife, Francis Lord Brudnell and Frances his wife, Edward Cary of Torabby, Esq; and Mary his wife, on the behalf of their wives being heirs to the Duke of Bucks: shewing the illegitimacy of the pretended heir, being an infant.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43621</idno><idno type="EEBO-CITATION">297426160</idno>
+  <idno type="VID">208151</idno>
+  <idno type="EEBO-PROQUEST">2240903083</idno>
+  
+            <idno type="OCLC"> 297426160</idno>
+            <idno type="OCLC">ocn 297426160</idno>
+            <idno type="STC">Wing P1050aA</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43621)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 208151)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2924:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The pedigree of John Lord Purbeck, the Duke of Buckingham, and Lord Anglesey. The case of James Earl of Castlehaven and Elizabeth his wife, Francis Lord Brudnell and Frances his wife, Edward Cary of Torabby, Esq; and Mary his wife, on the behalf of their wives being heirs to the Duke of Bucks: shewing the illegitimacy of the pretended heir, being an infant.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Ms. notes on verso.</note>
+                  <note>Reproduction of original in: Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Buckingham, John Villiers, --  Earl of, 1677-1723.</term>
+               <term type="topical_term">Inheritance and succession --  England --  Early works to 1800.</term>
+               <term type="topical_term">Decedents' estates --  England --  Early works to 1800.</term>
+               <term type="topical_term">Estates (Law) --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="court_case">
+            <pb facs="tcp:208151:1"/>
+            <pb facs="tcp:208151:2"/>
+            <head>The Pedigree of <hi>John</hi> Lord <hi>Purbeck,</hi> the Duke of <hi>Buckingham,</hi> and Lord <hi>Anglesey.</hi>
+            </head>
+            <head type="sub">
+               <list>
+                  <item>Sir <hi>George Villiers,</hi> by his Second Wife, had Is<g ref="char:EOLhyphen"/>sue Three Sons:
+<list>
+                        <item>1. <hi>John</hi> Lord <hi>Purbeck.</hi> 1. <hi>John</hi> Lord <hi>Purbeck</hi> died without Issue.
+<list>
+                              <item>That one <hi>Robert Right,</hi> an Illegitimate Issue, claims the Title and Honour of Lord <hi>Purbeck,</hi> who had Issue—
+<list>
+                                    <item>
+                                       <hi>Robert. Robert</hi> hath Is<g ref="char:EOLhyphen"/>sue
+<list>
+                                          <item>
+                                             <hi>John,</hi> the now Pretender.</item>
+                                       </list>
+                                    </item>
+                                 </list>
+                              </item>
+                           </list>
+                        </item>
+                        <item>2. <hi>George</hi> Duke of <hi>Bucks,</hi> 2. <hi>George</hi> Duke of <hi>Buc<g ref="char:EOLhyphen"/>kingham</hi> had Issue,
+<list>
+                              <item>The late Duke of <hi>Bucks,</hi>
+                              </item>
+                              <item>and Lord <hi>Francis Villiers;</hi> both dead, without Issue:</item>
+                              <item>And the late Dutchess of <hi>Richmond,</hi> who is also dead, without Issue.</item>
+                           </list>
+                        </item>
+                        <item>3. <hi>Christopher</hi> Lord <hi>An<g ref="char:EOLhyphen"/>glesey.</hi> 3. <hi>Christopher</hi> Earl of <hi>Anglesey</hi> had Issue,
+<list>
+                              <item>One Son, and The Son is dead, with<g ref="char:EOLhyphen"/>out Issue; and—</item>
+                              <item>One Daughter. The Daughter had Is<g ref="char:EOLhyphen"/>sue Three Daughters.
+<list>
+                                    <item>1. <hi>Frances,</hi> Wife to the Lord <hi>Brudenell:</hi>
+                                    </item>
+                                    <item>2. <hi>Elizabeth,</hi> Wife to the Earl of <hi>Castlehaven:</hi>
+                                    </item>
+                                    <item>3. <hi>Mary,</hi> Wife to Mr. <hi>Cary</hi> of <hi>Torabby.</hi>
+                                    </item>
+                                    <item>Which Three Daughters are Heirs at Law to the late Duke of <hi>Buckingham;</hi> the Pretended Issue of <hi>John</hi> Lord <hi>Purbeck</hi> being Illegitimate.</item>
+                                 </list>
+                              </item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </head>
+            <head type="sub">
+               <hi>The</hi> CASE <hi>of</hi> James <hi>Earl of</hi> Castlehaven <hi>and</hi> Elizabeth <hi>his Wife,</hi> Francis <hi>Lord</hi> Brudnell <hi>and</hi> Frances <hi>his Wife,</hi> Edward Cary <hi>of</hi> Torabby, <hi>Esq; and</hi> Mary <hi>his Wife, on the Behalf of their Wives being Heirs to the Duke of</hi> Bucks: Shewing <hi>the Illegitimacy of the Pretended Heir, being an Infant.</hi>
+            </head>
+            <p>THAT <hi>John</hi> Lord <hi>Purbeck</hi> married the Daughter of Sir <hi>Edward Cook,</hi> that not long after the said Intermarriage (by reason of weak<g ref="char:EOLhyphen"/>ness <note place="margin">John <hi>Lord</hi> Purbeck <hi>Mar<g ref="char:EOLhyphen"/>ried and lived a-part from his Lady.</hi>
+               </note> in Body, and Distraction and Madness of the said Lord <hi>Purbeck)</hi> the said Lord and Lady were caused to live a-part. <hi>The Lord</hi> was confined at his Physician's House, Forty Miles from <hi>London,</hi> for the Cure of his Distemper and Madness, and never after Co<g ref="char:EOLhyphen"/>habited with his Lady.</p>
+            <p>
+               <hi>That the</hi> Lady <hi>Purbeck</hi> lodged at <hi>Denmark-</hi>House, now called <hi>Somerset-</hi>House in the <hi>Strand, who</hi> some time after the said separation <note place="margin">
+                  <p>
+                     <hi>The Lady lived in Adul<g ref="char:EOLhyphen"/>tery. Two years after Sepa<g ref="char:EOLhyphen"/>ration, pretended to have a Child.</hi>
+                  </p>
+                  <p>
+                     <hi>The Lady Condemned for Adultery.</hi>
+                  </p>
+               </note> from her Lord, held an Adulterous conversation with one Sir <hi>Robert Howard. That</hi> two years after the Lady and Sir <hi>Robert</hi> had lived together in that manner, the Lady pretended to have a Child.</p>
+            <p>
+               <hi>Whereupon</hi> the Duke of <hi>Buckingham,</hi> and other Relations of the Lord <hi>Purbecks,</hi> causes the Lady to be Cited into the High Commission Court for Adultery; and upon proof of the Ladies lascivious Life, she was sentenced for Adultery, and enjoined Penance.</p>
+            <p>It was also proved, by the Deposition of several credible Witnesses. <hi>First,</hi> That the Lord <hi>Purbeck</hi> had not seen his Lady of two Years be<g ref="char:EOLhyphen"/>fore <note place="margin">
+                  <p>
+                     <hi>Proved her Lord had not liv'd with her of two years before the Birth of the pre<g ref="char:EOLhyphen"/>tended Child. Secondly, The Child was an unknown Child. Christened</hi> Robert Right.</p>
+                  <p>Robert <hi>died, left Issue</hi> Ro<g ref="char:EOLhyphen"/>bert.</p>
+                  <p>Robert <hi>the Son Petitioned King</hi> Charles II. <hi>to be admit<g ref="char:EOLhyphen"/>ted into the House of Lords; the Petition referr'd to the Lords.</hi>
+                  </p>
+               </note> she pretended to have a Child. <hi>Secondly,</hi> That this Child which the Lady <hi>Purbeck</hi> owned to be her Child, <hi>was</hi> the Child of an unknown Parent, <hi>Christned</hi> by the Name of <hi>Robert,</hi> the Son of <hi>Robert Right</hi> of <hi>Yorkshire,</hi> and so Entred in the Church-book at <hi>Cripple Gate, London.</hi>
+            </p>
+            <p>
+               <hi>That this Child</hi> (the now pretenders Grandfather) went by the Name of <hi>Robert Right,</hi> till he came of Age, then he took upon him the Name of <hi>Howard;</hi> then the Name of <hi>Villiers;</hi> lastly, relinquished the Name of <hi>Villiers,</hi> and took that Name of <hi>Danvers,</hi> who died and left Issue <hi>Robert.</hi>
+            </p>
+            <p>
+               <hi>That Robert</hi> the Son, after the Death of his Father <hi>Petitioned</hi> King <hi>Charles</hi> II. by the Name of Lord <hi>Purbeck,</hi> to be admitted into the House of Lords; the Petition was referr'd to the Lords in Parliament, which being Read, It was <hi>Ordered,</hi> That the Earl of <hi>Denbigh,</hi> or other Relations of the old Lord <hi>Purbeck</hi> deceased, be heard by way of Answer. <hi>The Earl of Denbigh put in a Petition.</hi>
+            </p>
+            <p>Shewing, <hi>That the pretender to the Name and Dignity of Viscount</hi> Purbeck <hi>is the Son of</hi> Robert, <hi>with the Sirname of</hi> Right <hi>in his Infancy, at</hi>
+               <note place="margin">
+                  <hi>The Earl of</hi> Denbigh's <hi>Answer to the Petition.</hi>
+               </note>
+               <hi>Age he took that of</hi> Howard; <hi>and then that of</hi> Villiers; <hi>lastly, relinquished the Name of</hi> Villiers <hi>and assumed that of</hi> Danvers. Prays <hi>that before their Lordships admit him into the House, that he, the pretender</hi> Robert Right, <hi>may make out his Title: And also that their Lordships would take care that the Honour of Peers may not receive deminution by any Illegitimate mixture, and to do in this case as to their great Wisdom and Honour shall seem meet.</hi>
+            </p>
+            <p>
+               <hi>That</hi> upon the reading of this Petition, it was <hi>Ordered</hi> to be spoken to on both sides by Councel, at the Bar of the House of Lords, and that <note place="margin">
+                  <hi>The Cause heard in the House of Lords.</hi>
+               </note> notice be given also to the Duke of <hi>Buckingham</hi> and the Lord <hi>Brudenell. That</hi> at the day appointed the Cause was heard by Council, afterwards <hi>Ordered</hi> to be debated, and the Judges and Mr. Attorney General to be present, where after long debate, <note place="margin">
+                  <p>
+                     <hi>Question put that a Bill be brought to disable the Petiti<g ref="char:EOLhyphen"/>oner to claim the Title of Vis<g ref="char:EOLhyphen"/>count</hi> Purbeck. <hi>Resolved in the Affirmative.</hi>
+                  </p>
+                  <p>
+                     <hi>The Petitioner</hi> Robert <hi>died left Issue (an Infant) the now pretender to be Heir to the Duke of</hi> Bucks.</p>
+                  <p>
+                     <hi>The Lady</hi> Castlehaven, <hi>Lady</hi> Brudenell, <hi>and Mrs.</hi> Cary <hi>prays to be named as Heirs to the said Duke, in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>he Bill for the Sale of the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ukes Estate. The said In<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>nt being.</hi> Illegitimate.</p>
+               </note>
+            </p>
+            <p>
+               <hi>The Question was put</hi> whether the King should be Petitioned to give Leave that a Bill be brought in to disable the Petitioner to claim the Title of Viscount <hi>Purbeck?</hi> Resolved in the Affirmative.</p>
+            <p>That a Petition by the Order of the House of Lords was accordingly prepared and presented. <hi>Since</hi> which time there hath been no further proceedings therein, during the life of the said <hi>Robert</hi> who is dead, having left Issue <hi>John,</hi> who pretends to be Heir to the Duke of <hi>Buckingham,</hi> and to inherit the said Duke's Estate and Honour of Earl of <hi>Buckingham.</hi>
+            </p>
+            <p>
+               <hi>Wherefore the Lady</hi> Elizabeth <hi>Countess of</hi> Castlehaven, <hi>the Lady</hi> Frances Brudenell, <hi>and Mrs.</hi> Cary, undoubted Heirs to the Duke of <hi>Bucks,</hi> as by the Pedigree doth appear, <hi>doth hope</hi> that after such full proofs of Illegitimacy in the pretenders Grandfather, as by this Case is set forth, <hi>that a Clause</hi> may be incerted in the Bill for the Sale of the Duke of <hi>Buckingham</hi>'s Estate, giving the surplusage of the said Estate, after just Debts are paid, unto the said <hi>Elizabeth</hi> Countess of <hi>Castlehaven,</hi> the Lady <hi>Frances Brudenell,</hi> and Mrs. <hi>Mary Cary,</hi> being lawful Heirs to the Duke of <hi>Buckingham.</hi>
+            </p>
+            <p>
+               <hi>MEMORANDUM,</hi> That <hi>Robert,</hi> the Pretender's Father, was Arrested by the Name of <hi>Robert Villiers, alias Danvers, alias Purbeck,</hi> and was Committed <note place="margin">☞</note> by <hi>Habeas Corpus,</hi> to the Marshal of the <hi>King's-Bench,</hi> the 21th Day of <hi>June,</hi> 1679. at the Suit of one <hi>Johnson,</hi> a Coach-maker, and many others: That he remain'd a Prisoner above Seven Years, till he was kill'd, without any Relief from the House of Lords, tho' often importun'd to own him as a Peer of <hi>England.</hi>
+            </p>
+            <p>And that the said <hi>Robert</hi> did, by an Instrument under his Hand and Seal, together with <hi>Margaret,</hi> his then Wife, join in an Indenture Tripartite, between them and <hi>William</hi> Earl of <hi>Clanricard,</hi> for a certain great Summ of Money by him receiv'd, wherein he stiles himself <hi>Robert Villiers,</hi> Esq; commonly called, and known, by the Name of <hi>Robert</hi> Viscount <hi>Purbeck;</hi> this being his own proper Act and Deed.</p>
+            <pb facs="tcp:208151:3"/>
+            <pb facs="tcp:208151:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
